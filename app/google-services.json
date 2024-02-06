@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841197649377",
+    "project_id": "chatapplication-fce2c",
+    "storage_bucket": "chatapplication-fce2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841197649377:android:5531ba7dc9687e555d66a0",
+        "android_client_info": {
+          "package_name": "com.mycode.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKT_-RsnA6ZXtR0CF8mlPylMybEXfDba8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
